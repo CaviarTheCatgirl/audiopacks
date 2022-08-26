@@ -4,5 +4,6 @@
   "author": "CaviarTheCatgirl",
   "version": "v1.0",
   "manifest_version": 1,
-  "music": true
+  "music": true,
+  "ignore": []
 }
